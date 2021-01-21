@@ -1,4 +1,4 @@
-package com.sqkb.bigdata.config.mybatis;
+package com.foo;
 
 import com.baomidou.mybatisplus.core.MybatisDefaultParameterHandler;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;

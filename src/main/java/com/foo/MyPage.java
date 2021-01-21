@@ -1,4 +1,5 @@
-import cn.hutool.db.Page;
+package com.foo;
+
 import com.baomidou.mybatisplus.core.metadata.OrderItem;
 
 import java.util.ArrayList;
@@ -11,7 +12,7 @@ import java.util.List;
  *
  * 页号从 1 开始计.
  * 记录起始位置以 0 开始计.
- * @see {@link Page}
+ * @see {@code cn.hutool.db.Page}
  * @author dafei
  * @version 0.1
  * @date 2019/11/22 13:28
